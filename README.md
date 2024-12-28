@@ -8,3 +8,5 @@ Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Pow
 2. Criar o Banco de dados com base disponível no github
 3. Integração do Power BI com MySQL no Azure
 4. Verificar problemas na base a fim de realizar a transformação dos dados
+
+![image](https://github.com/user-attachments/assets/6c8a4e8a-808a-42df-bc8b-2734f61c859b)
